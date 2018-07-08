@@ -1,0 +1,7 @@
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\bin\Debug\PTest01_B.exe.config
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\bin\Debug\PTest01_B.exe
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\bin\Debug\PTest01_B.pdb
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\obj\Debug\PTest01_B.csproj.CoreCompileInputs.cache
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\obj\Debug\PTest01_B.exe
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\obj\Debug\PTest01_B.pdb
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_B\obj\Debug\PTest01_B.csprojAssemblyReference.cache

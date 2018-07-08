@@ -1,0 +1,14 @@
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\bin\Debug\PTest01_A.exe.config
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\bin\Debug\PTest01_A.exe
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\bin\Debug\PTest01_A.pdb
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.csprojAssemblyReference.cache
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.csproj.CoreCompileInputs.cache
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.exe
+c:\users\gevbancud\source\repos\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.pdb
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\bin\Debug\PTest01_A.exe.config
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\bin\Debug\PTest01_A.exe
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\bin\Debug\PTest01_A.pdb
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.csprojResolveAssemblyReference.cache
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.csproj.CoreCompileInputs.cache
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.exe
+C:\Users\gemba\Desktop\Bancud_PTest01\PTest01_A\obj\Debug\PTest01_A.pdb
